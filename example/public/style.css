@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#root{
+    padding: 50px 0;
+    overflow: hidden;
+    background-color: #fdfdfd
+}
+
+h1, h2{
+    text-align: center;
+    color: #2d2d2d;
+    font-weight: 300;
+    text-decoration: underline
+}
+
+.wrapper{
+    display: block;
+    padding: 5%;
+    width: 100%
+}
+
+.exemple-wrapper .exemples{
+    margin: 30px 0;
+}
+
+.exemple-wrapper .exemples .exemple{
+    display: block;
+    width: 100%;
+    position: relative
+}
+
+.exemple-wrapper .exemples .exemple code{
+    display: block;
+    text-align: center;
+    font-size: 14px;
+    background-color: #efefef;
+    padding: 10px;
+    line-height: 3;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+.exemple-wrapper .component{
+    position: relative;
+    height: 150px;
+}
+
+.exemple-wrapper.vertical .exemples,
+.exemple-wrapper.circular .exemples{
+    flex: wrap row;
+    width: 100%;
+}
+
+.exemple-wrapper.vertical .component{
+    height: 350px;
+}
+
+.exemple-wrapper.circular .component{
+    height: 450px;
+}
+
+.exemple-wrapper.circular .component.half{
+    height: 250px;
+}
+
+.red{
+    background: red
+}
