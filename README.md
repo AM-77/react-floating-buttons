@@ -1,6 +1,6 @@
 # react-floating-buttons
 
-> A lightweight, customizable and cool ⚛️ react floating buttons
+> A lightweight, customizable and animated ⚛️ react floating buttons
 
 [![NPM](https://img.shields.io/npm/v/react-floating-buttons.svg)](https://www.npmjs.com/package/react-floating-buttons) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
