@@ -85,7 +85,7 @@ class Example extends Component {
 
 `type:  string, isRequired: false, default: 'circular'`
 
-​	The direction of the nav when opened, accepts: left, right, top, bottom or circular
+​	The direction of the nav when opened, accepts: left, right, up, down or circular
 
 ##### distance
 
