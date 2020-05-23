@@ -151,11 +151,15 @@ To run the exemple you need to:
 
 
 
-
-
 ## Contribution
 
 Feel free to raise an [Issue](https://github.com/AM-77/react-floating-buttons/issues) or submit a [PR](https://github.com/AM-77/react-floating-buttons/pulls).
+
+
+## Inspired From 
+
+[na6im/react-floating-button](https://github.com/na6im/react-floating-button)
+
 
 ## Copyright and license
 
